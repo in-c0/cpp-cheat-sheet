@@ -1,4 +1,7 @@
-# Cheatsheet
+# CPP Cheatsheet
+
+For exam / hackathon / coding contest
+
 
 File Input/Output
 

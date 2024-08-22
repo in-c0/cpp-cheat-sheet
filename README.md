@@ -1,6 +1,6 @@
 # CPP Cheatsheet
 
-For exam / hackathon / coding contest
+For exam / hackathon / coding contest. Also see [cpp-utility-functions.md](cpp-utility-functions.md)
 
 
 # Input Processing
